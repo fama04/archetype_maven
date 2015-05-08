@@ -1,0 +1,11 @@
+<archetype>
+  <id>wiperdog-osgi-ipojo-archetype</id>
+  <resources>
+    <resource>osgi.bnd</resource>
+    <resource>pom.xml</resource>
+    <resource>metadata.xml</resource>
+    <resource>src/main/resources/readme.txt</resource>
+    <resource>src/main/java/Sample.java</resource>
+    <resource>src/main/java/testJava.java</resource>
+  </resources>
+</archetype>
